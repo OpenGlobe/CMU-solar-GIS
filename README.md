@@ -37,3 +37,6 @@ They also provide their own tool called iMaps: https://solargis.info/imaps/
 ## World Bank's Global Solar Atlas: http://globalsolaratlas.info/
 Built in collaboration with the folks at Solar-GIS - this version is freely available. 
 
+## EnergyData.Info: https://energydata.info/
+Searchable collection of data and applications. 
+
