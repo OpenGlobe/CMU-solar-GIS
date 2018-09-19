@@ -3,6 +3,14 @@ Resources for CMU's systems synthesis team working on a solar study for the Stat
 
 # Resources
 
+### [GIS Best Practices for Renewable Energy](http://www.esri.com/library/bestpractices/renewable-energy.pdf) (ESRI white paper)
+
+### [Global Atlas for Renewable Energy](https://irena.masdar.ac.ae/gallery/)
+
+### [Energydata.info](https://energydata.info/)
+
+
+
 ## Tools from the National Renewable Energy Laboratory
 ### PVWatts Calculator: https://pvwatts.nrel.gov
 
